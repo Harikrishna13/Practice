@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-15T15:23:49 IST" name="Suite" finished-at="2022-01-15T15:24:40 IST" duration-ms="50950">
+    <groups>
+    </groups>
+    <test started-at="2022-01-15T15:23:49 IST" name="Test" finished-at="2022-01-15T15:24:40 IST" duration-ms="50950">
+      <class name="Maven2.Adactin">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:Maven2.Adactin@d9345cd]" started-at="2022-01-15T15:23:49 IST" name="beforeTest" finished-at="2022-01-15T15:24:11 IST" duration-ms="21779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="test()[pri:0, instance:Maven2.Adactin@d9345cd]" started-at="2022-01-15T15:24:11 IST" name="test" finished-at="2022-01-15T15:24:40 IST" duration-ms="29129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- Maven2.Adactin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
