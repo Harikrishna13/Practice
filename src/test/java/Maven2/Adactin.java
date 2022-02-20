@@ -164,6 +164,7 @@ public class Adactin extends LibGlobal {
 	@AfterClass
 	public static void afterClass() {
 		close();
+		System.out.print("hi");
 	}
 	
 }	
